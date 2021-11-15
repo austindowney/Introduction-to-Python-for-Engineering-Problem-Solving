@@ -6,12 +6,12 @@ A simple introduction to Python for engineering students that introduces the use
 <p align="center">
 <img src="beam.png" alt="drawing" width="450"/>
 </p>
-<p align="center"> text </p>
+<p align="center"> Cantilever beam with a mass drop used to generate data for for investigation and plotting.</p>
 
 <p align="center">
 <img src="Spectrogram.png" alt="drawing" width="450"/>
 </p>
-<p align="center"> </p>
+<p align="center"> Spectrogram of the recorded signal showing the shift in the first three frequencies before and after the mass drops.  </p>
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
