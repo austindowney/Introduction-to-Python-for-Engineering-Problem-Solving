@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Nov 15 16:05:28 2019
+Example 3: data processing
 
-@author: austin
+@author Austin Downey
 """
-
 
 import IPython as IP
 IP.get_ipython().magic('reset -sf')
@@ -72,58 +71,5 @@ plt.xlabel('Time (s)')
 plt.ylim([0,150])
 plt.tight_layout()
 plt.savefig('Spectrogram',dpi=300)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

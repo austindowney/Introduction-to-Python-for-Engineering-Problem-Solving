@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Nov 15 16:05:28 2019
+Example 2: pure python
 
-@author: austin
+@author Austin Downey
 """
 
 # clears everything, including IPython
@@ -144,19 +144,4 @@ elif i == 'd':
     print('the variable is ' + i)
 else:
     print('the variable is a mystery')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

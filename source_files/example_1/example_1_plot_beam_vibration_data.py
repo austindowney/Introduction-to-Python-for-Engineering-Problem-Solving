@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Nov 15 16:05:28 2019
+Example 1: plotting data
 
-@author: austin
+@author: Austin Downey
 """
 
 
@@ -36,4 +36,6 @@ plt.tight_layout()
 plt.savefig('example_1_150.png',dpi=150)
 plt.savefig('example_1_300.png',dpi=300)
 plt.savefig('example_1_pdf.pdf')
+
+
 
