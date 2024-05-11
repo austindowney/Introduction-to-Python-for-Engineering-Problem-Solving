@@ -15,7 +15,7 @@ A simple introduction to Python for engineering students; introduces the use of 
 
 ## Accompanying Video Lecture
 
-A YouTube video of a lecture that covers this material can be found [here]([https://www.codecademy.com/pages/contribute-docs](https://www.youtube.com/watch?v=KNRzxBLgfWE&ab_channel=ARTS-LabattheUniversityofSouthCarolina))
+A YouTube video of a lecture that covers this material can be found [here](https://www.youtube.com/watch?v=KNRzxBLgfWE&ab_channel=ARTS-LabattheUniversityofSouthCarolina).
 
 ## Licensing and Citation
 
