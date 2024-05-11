@@ -1,4 +1,4 @@
-# Introduction to Python for engineering problem-solving
+# Introduction to Python for Engineering Problem-Solving
 
 A simple introduction to Python for engineering students; introduces the use of Anaconda for problem-solving in engineering. This provides a compare-and-contrast to Matlab. This course is centered around a vibrating beam example designed to quickly get students plotting and analyzing data using NumPy, SciPy, and Matplotlib. This final product is a spectrogram of a vibrating beam that experiences a mass drop. Typically takes 2 hours to do in a classroom setting. Everything the typical user will need is in the directory "course_material".
 
