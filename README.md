@@ -18,7 +18,7 @@ A simple introduction to Python for engineering students; introduces the use of 
 A YouTube video of a lecture that covers this material can be found [here](https://www.youtube.com/watch?v=KNRzxBLgfWE&ab_channel=ARTS-LabattheUniversityofSouthCarolina).
 
 <p align="center">
-<img src="media/youtube_video_screenshot.jpg.jpg" alt="drawing" width="450"/>
+<img src="media/youtube_video_screenshot.jpg" alt="drawing" width="450"/>
 </p>
 <p align="center"> Screenshot of the video lecture that accompanies this repository which can be found [here](https://www.youtube.com/watch?v=KNRzxBLgfWE&ab_channel=ARTS-LabattheUniversityofSouthCarolina).  </p>
 
