@@ -8,7 +8,7 @@ Example 2: pure python
 
 # clears everything, including IPython
 import IPython as IP
-IP.get_ipython().magic('reset -sf')
+IP.get_ipython().run_line_magic('reset', '-sf')
 
 # import modules native to Python, use the "as" to not get confused 
 import random as random # random number generator
