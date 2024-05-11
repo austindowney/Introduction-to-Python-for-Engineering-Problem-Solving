@@ -13,6 +13,9 @@ A simple introduction to Python for engineering students; introduces the use of 
 </p>
 <p align="center"> Spectrogram of the recorded signal showing the shift in the first three frequencies before and after the mass drops.  </p>
 
+## Accompanying Video Lecture
+
+A YouTube video of a lecture that covers this material can be found here [here]([https://www.codecademy.com/pages/contribute-docs](https://www.youtube.com/watch?v=KNRzxBLgfWE&ab_channel=ARTS-LabattheUniversityofSouthCarolina))
 
 ## Licensing and Citation
 
